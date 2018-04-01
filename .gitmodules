@@ -1,0 +1,3 @@
+[submodule "EV3UartGenerator"]
+	path = EV3UartGenerator
+	url = https://github.com/shenghaoyang/EV3UartGenerator.git

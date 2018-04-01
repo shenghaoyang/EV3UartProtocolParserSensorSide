@@ -1,0 +1,8 @@
+/Debug/
+/Test/
+/doc/*.bak
+/doc/html
+/doc/latex
+/.settings
+.cproject
+.project
